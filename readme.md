@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhirsama)](https://github.com/nhirsama/github-readme-stats)
+![nhir's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nhirsama&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=66ccff&text_color=66ccff&icon_color=66ccff)
