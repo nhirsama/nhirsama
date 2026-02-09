@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=66CCFF&width=435&lines=Welcome+to+the+world+I+built.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1729&color=66CCFF&width=500&lines=Welcome+to+the+world+I+built.)](https://git.io/typing-svg)
 
 ## Metadata
 - Undergraduate in Communication Engineering, Class of 2027
