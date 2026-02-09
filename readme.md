@@ -28,16 +28,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=dark&title_color=66ccff&text_color=33ccff#gh-dark-mode-only"
-    
-  />
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=dark&title_color=66ccff&text_color=33ccff#gh-dark-mode-only" >
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=transparent&title_color=66ccff&text_color=33ccff#gh-light-mode-only"
-    
-  />
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=transparent&title_color=66ccff&text_color=33ccff#gh-light-mode-only" >
   <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=transparent&title_color=66ccff&text_color=33ccff#gh-light-mode-only" 
-  
-  />
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhirsama&layout=compact&langs_count=10&hide=html,Jupyter,CSS%20Notebook,MATLAB&theme=transparent&title_color=66ccff&text_color=33ccff#gh-light-mode-only" >
 </picture>
