@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1729&color=66CCFF&width=500&lines=Welcome+to+the+world+I+built.)](https://git.io/typing-svg)
 
+> 用一切去守护那属于我、却脆弱的四方晶系。
 ## Metadata
 - Undergraduate in Communication Engineering, Class of 2027
 - Competitive Programmer
