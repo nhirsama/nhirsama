@@ -28,7 +28,7 @@
 <a href="https://nhir.top" target="_blank">
   <img src="https://img.shields.io/badge/blog-33CCFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMSI+PHBhdGggZD0ibTkuMTA5IDkuNTc4bC00Ljc4My0yLjM0TC41IDExLjVoNS4yNDZsLjQ5MyA3LjIxN0wxNy43MTcgMjMuNXptMCAwTDE4LjE5MSAxLjVMMTQuMzE3IDE4Ii8+PHBhdGggZD0ibTExNy4wNDIgNi4zOTFsNS40NTgtMi41bC03LjY5OCAxNC44OTVNNC4zMjYgNy4yMzlsMS40MiA0LjI2bS40OTQgNy4yMTdsMi44NjktOS4xMzgiLz48L2c+PC9zdmc+" alt="blog">
 </a>
-<a href="https://t.me/lingrhy" target="_blank">
+<a href="https:/telegram .me/lingrhy" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="mailto:rin@nhirs.com">
